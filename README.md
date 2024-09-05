@@ -9,32 +9,36 @@ meet the needs of various industries.
 ## 2. Data Processing
 ## 2.1 Data Ingestion:
 The AI employee is capable of handling multiple data formats:
-CSV (Comma-Separated Values): Widely used for its simplicity and compatibility with many
-data analysis tools.
-JSON (JavaScript Object Notation): Suitable for hierarchical data structures, allowing for
-complex data representation.
-Excel: Commonly used in business environments for its spreadsheet functionalities.
+## 1. CSV (Comma-Separated Values): 
+Widely used for its simplicity and compatibility with many data analysis tools.
+## 2. JSON (JavaScript Object Notation): 
+Suitable for hierarchical data structures, allowing for complex data representation.
+## 3. Excel: 
+Commonly used in business environments for its spreadsheet functionalities.
 Supporting these formats ensures the AI employee can interact with diverse data sources,
 enhancing its versatility and applicability.
 ## 2.2 Data Cleaning and Preprocessing:
 Effective data cleaning is crucial for accurate analysis. The preprocessing steps include:
-Removing Duplicates: Ensures that each data entry is unique, preventing redundancy and
-potential skewing of results.
-Handling Missing Values: Addresses gaps in data by imputing missing values with statistical
-measures, such as the mean. This method maintains data integrity and allows for continuous
-analysis.
+## 1. Removing Duplicates: 
+Ensures that each data entry is unique, preventing redundancy and potential skewing of results.
+## 2. Handling Missing Values: 
+Addresses gaps in data by imputing missing values with statistical measures, such as the mean. 
+This method maintains data integrity and allows for continuous analysis.
 These preprocessing techniques prepare the dataset for further analysis by addressing common
 data quality issues.
 ## 3. Analysis Engine
 ## 3.1 Overview of Analytical Approaches:
 The analysis engine uses several techniques to uncover trends and patterns within the data:
-## 1. Linear Regression: This statistical method models the relationship between a dependent
+## 1. Linear Regression: 
+This statistical method models the relationship between a dependent
 variable and one or more independent variables. It helps in understanding how changes in
 predictor variables impact the target variable, providing insights into linear trends.
-## 2. K-Means Clustering: A machine learning algorithm used to partition data into distinct clusters
+## 2. K-Means Clustering: 
+A machine learning algorithm used to partition data into distinct clusters
 based on feature similarity. This technique helps in identifying inherent groupings within the
 data, facilitating pattern recognition and segmentation.
-## 3. Decision Trees: A model that makes decisions based on feature values, resulting in a tree-like
+## 3. Decision Trees: 
+A model that makes decisions based on feature values, resulting in a tree-like
 structure of decisions. It is useful for classification tasks and understanding the factors
 influencing specific outcomes.
 These algorithms are selected based on their ability to analyze different aspects of the data,
